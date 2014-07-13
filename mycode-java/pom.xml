@@ -5,7 +5,7 @@
   <groupId>mycode</groupId>
   <artifactId>mycode-java</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>mycode-java</name>
   <url>http://maven.apache.org</url>
@@ -22,4 +22,14 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+  	<url>https://github.com/gaozhenpeng/OSSide.git</url>
+  	<connection>mycode</connection>
+  	<developerConnection>gaozhenpeng@aliyun.com</developerConnection>
+  	<tag>java,code</tag>
+  </scm>
+  <issueManagement>
+  	<url>https://github.com/gaozhenpeng/OSSide/issues</url>
+  	<system>GitHub</system>
+  </issueManagement>
 </project>
