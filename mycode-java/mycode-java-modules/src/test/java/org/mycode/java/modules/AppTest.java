@@ -1,4 +1,4 @@
-package mycode.mycode_java;
+package org.mycode.java.modules;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
